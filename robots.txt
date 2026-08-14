@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ghv11f.haybaleman.co.nz/sitemap.xml
